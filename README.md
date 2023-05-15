@@ -1,8 +1,11 @@
 Simple sleep timer script written in 40 lines of Python. Puts your Mac to sleep after waiting for the specified amount of time. 
 
+<br/>
+
 **Usage**
 
 ```
+>>> python3 sleeptimer.py -h
 usage: sleeptimer [-h] TIME_SPAN
 
 positional arguments:
@@ -12,12 +15,16 @@ options:
   -h, --help  show this help message and exit
 ```
 
+<br/>
+
 **Example**
 
 ```
 >>> python3 sleeptimer.py 1h15m
 Will go to sleep at [17:08:52]. Press CTRL+C to cancel.
 ```
+
+<br/>
 
 **Make it easier to run**
 
