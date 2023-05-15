@@ -28,4 +28,4 @@ Will go to sleep at [17:08:52]. Press CTRL+C to cancel.
 
 **Make it easier to run**
 
-Make the script easier to call by running `sudo python3 install.py`, which will create a shell script on PATH, so it can easily be called everywhere by just typing `sleeptimer 30m`.
+Make the script easier to use by running `sudo python3 install.py`, which will create a shell script on PATH, so it can easily be run from everywhere by just typing `sleeptimer`.
